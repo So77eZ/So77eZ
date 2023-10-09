@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @So77eZ;
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning JS/TS/React, HTML/CSS, PHP.
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+
 
 <!---
 So77eZ/So77eZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
