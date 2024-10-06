@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @So77eZ;
-- 🌱 I’m currently learning JS/TS/React, HTML/CSS, PHP.
+- 🌱 I’m currently learning JS/TS/Node.js/Next,js, React/HTML/CSS/Tailwind.
 
 
 <!---
